@@ -1,0 +1,9 @@
+C:\source\Mindbox\FW\Mindbox_PracticalTask\GeometricShapes\bin\Debug\netstandard2.0\GeometricShapes.deps.json
+C:\source\Mindbox\FW\Mindbox_PracticalTask\GeometricShapes\bin\Debug\netstandard2.0\GeometricShapes.dll
+C:\source\Mindbox\FW\Mindbox_PracticalTask\GeometricShapes\bin\Debug\netstandard2.0\GeometricShapes.pdb
+C:\source\Mindbox\FW\Mindbox_PracticalTask\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.csprojAssemblyReference.cache
+C:\source\Mindbox\FW\Mindbox_PracticalTask\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\source\Mindbox\FW\Mindbox_PracticalTask\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.AssemblyInfoInputs.cache
+C:\source\Mindbox\FW\Mindbox_PracticalTask\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.AssemblyInfo.cs
+C:\source\Mindbox\FW\Mindbox_PracticalTask\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.dll
+C:\source\Mindbox\FW\Mindbox_PracticalTask\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.pdb
